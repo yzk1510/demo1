@@ -1,10 +1,7 @@
 package com.example.demo.util;
 
 public class Test {
-    public void yu(){
-        System.out.println("分支测试");
-    }
-    public void te(){
+    public void y(){
         System.out.println("分支测试");
     }
 
